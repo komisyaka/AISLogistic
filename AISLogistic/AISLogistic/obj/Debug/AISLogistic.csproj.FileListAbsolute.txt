@@ -1,0 +1,11 @@
+D:\praktika\AISLogistic\AISLogistic\bin\Debug\logistics.mdf
+D:\praktika\AISLogistic\AISLogistic\bin\Debug\logistics_log.ldf
+D:\praktika\AISLogistic\AISLogistic\bin\Debug\AISLogistic.exe.config
+D:\praktika\AISLogistic\AISLogistic\bin\Debug\AISLogistic.exe
+D:\praktika\AISLogistic\AISLogistic\bin\Debug\AISLogistic.pdb
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.csprojResolveAssemblyReference.cache
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.Form1.resources
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.Properties.Resources.resources
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.csproj.GenerateResource.Cache
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.exe
+D:\praktika\AISLogistic\AISLogistic\obj\Debug\AISLogistic.pdb
